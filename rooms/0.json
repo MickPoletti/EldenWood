@@ -1,0 +1,8 @@
+{"name":"Prison Cell",
+"description": "You find yourself in a damp room shrouded in thick and
+motionless darkness. You can see but a single sliver of golden light gleaming
+through a small crack in what must be the door in front of you. You notice that
+the ground is very moist and you are not wearing any clothes. Your hands are
+bound tightly behind your back with some type of rope.",
+"neighbors": {"n":1}
+}

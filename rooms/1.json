@@ -1,0 +1,8 @@
+{"name":"Prison Hallway",
+"description": "You move toward the door, you try to budge the door.
+The door creaks open immediately and swings open to the hallway.
+You walk out into the hallway. Directly in front of you is
+a wall holding a gothic sconce drenched in wax. The flame is dim and provides
+just enough light for you to see in front of you.",
+"neighbors": {"n":1}
+}
